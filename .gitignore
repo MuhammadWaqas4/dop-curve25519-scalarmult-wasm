@@ -3,4 +3,4 @@
 Cargo.lock
 bin/
 wasm-pack.log
-
+LICENSE
