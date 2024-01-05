@@ -14,4 +14,4 @@ git checkout main;
 git rebase origin/release;
 git push --tags --no-verify;
 git push --no-verify;
-echo https://github.com/Railgun-Community/curve25519-scalarmult-wasm/actions;
+echo https://github.com/MuhammadWaqas4/dop-curve25519-scalarmult-wasm.git;

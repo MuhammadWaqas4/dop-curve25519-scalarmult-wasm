@@ -2,7 +2,7 @@
   "name": "dop-curve25519-scalarmult-wasm",
   "version": "1.0.3",
   "description": "Curve25519 scalar multiplication in WASM",
-  "author": "RAILGUN Contributors",
+  "author": "DOP Contributors",
   "license": "MIT",
   "repository": {
     "type": "git",
