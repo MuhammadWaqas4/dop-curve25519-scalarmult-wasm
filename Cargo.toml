@@ -2,7 +2,7 @@
 name = "curve25519-scalarmult-wasm"
 version = "0.1.5"
 authors = ["DOP Contributors"]
-edition = "2018"
+edition = "2023"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
